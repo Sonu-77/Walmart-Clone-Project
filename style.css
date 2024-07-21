@@ -3924,6 +3924,7 @@ html , body{
     /* background: #e45de9; */
     display: flex;
     border-radius: 1vw ;
+    border: 1px solid #e2e4e6;
 
     margin-top: 10%;
 
