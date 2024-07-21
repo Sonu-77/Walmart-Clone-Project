@@ -712,7 +712,7 @@ html , body{
 #box-container3{
     height: 13vw;
     
-    background-image: url('Images/box-3-cha.jpg');
+    background-image: url('Images/box-3-cha.webp');
     background-size: cover; 
     background-position: center;
     grid-column: 16 / span 5; 
@@ -744,7 +744,7 @@ html , body{
 
 #box-container4{
     height: 36.4vw;
-    background-image: url('Images/box-4-cha.jpg');
+    background-image: url('Images/box-4-cha.webp');
     background-size: cover; 
     background-position: center;
     grid-column:  1/ span 5; 
@@ -779,7 +779,7 @@ html , body{
 #box-container5{
     height: 25.4vw;
 
-    background-image: url('Images/box-8-img.jpg');
+    background-image: url('Images/box-8-img.webp');
     background-size: cover;
     background-position: center;
     grid-column: 6 / span 5; 
@@ -1483,7 +1483,7 @@ html , body{
     grid-column: 8 / span 2;
     grid-row:  1/ span 4;
 
-    background-image: url('page5-banner-img/ban-3.jpg');
+    background-image: url('page5-banner-img/ban-3.webp');
     background-size: cover;
 }
 
@@ -2812,7 +2812,7 @@ html , body{
 #box-container3{
     height: 25vw;
     
-    background-image: url('Images/box-3-cha.jpg');
+    background-image: url('Images/box-3-cha.webp');
     background-size: cover; 
     background-position: center;
     grid-column: 2 / span 1; 
@@ -2847,7 +2847,7 @@ html , body{
 
 #box-container4{
     height: 80vw;
-    background-image: url('Images/box-4-cha.jpg');
+    background-image: url('Images/box-4-cha.webp');
     background-size: cover; 
     background-position: center;
     grid-column:  2/ span 1; 
@@ -2883,7 +2883,7 @@ html , body{
 #box-container5{
     height: 58vw;
 
-    background-image: url('Images/box-8-img.jpg');
+    background-image: url('Images/box-8-img.webp');
     background-size: cover;
     background-position: center;
     grid-column: 1 / span 2; 
@@ -3604,7 +3604,7 @@ html , body{
     grid-column: 1 / span 2;
     grid-row:  8/ span 2;
 
-    background-image: url('page5-banner-img/ban-3.jpg');
+    background-image: url('page5-banner-img/ban-3.webp');
     background-size: cover;
     background-position: center ;
 }
