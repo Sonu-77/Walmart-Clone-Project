@@ -2,6 +2,11 @@
 
 This project is a clone of the Walmart website, built using HTML, CSS, and JavaScript. The project includes various features such as responsive design, animations, and interactive elements to provide a similar experience to the original Walmart website.
 
+## Website Link 
+
+- Link - [Walmart Clone](https://sonu-77.github.io/Walmart-Clone-Project/)
+
+
 ## Features
 
 - **Responsive Design**: The layout is responsive and adapts to different screen sizes, including mobile and desktop.
